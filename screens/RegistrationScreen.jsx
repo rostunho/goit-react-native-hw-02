@@ -100,27 +100,3 @@ const styles = StyleSheet.create({
     width: "100%",
   },
 });
-
-{
-  /* <TextInput
-          style={styles.input}
-          placeholder="Login"
-          placeholderTextColor="#BDBDBD"
-        />
-        <TextInput
-          style={styles.input}
-          placeholder="Email"
-          placeholderTextColor="#BDBDBD"
-        />
-        <View>
-          <TextInput
-            style={styles.input}
-            placeholder="Password"
-            placeholderTextColor="#BDBDBD"
-            secureTextEntry
-          />
-          <TouchableOpacity style={styles.showPassBtn} activeOpacity={0.75}>
-            <Text style={styles.showPassText}>Show</Text>
-          </TouchableOpacity>
-        </View> */
-}

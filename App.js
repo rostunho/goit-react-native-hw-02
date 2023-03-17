@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { StatusBar } from "expo-status-bar";
 import {
   StyleSheet,
@@ -47,11 +46,8 @@ const styles = StyleSheet.create({
     resizeMode: "cover",
     width: Dimensions.get("window").width,
     height: Dimensions.get("window").height,
-    // justifyContent: "flex-end",
-    // alignItems: "center",
   },
   avoidingView: {
-    // flex: 1,
     width: "100%",
     height: "100%",
     justifyContent: "flex-end",
